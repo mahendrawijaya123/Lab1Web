@@ -1,4 +1,4 @@
 # ini baris pertama
 
 
-![paragraf](screenshot/ss_paragraf.png)
+![paragraf](img/ss_paragraf.png)
